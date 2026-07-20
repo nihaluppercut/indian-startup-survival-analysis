@@ -195,11 +195,26 @@ Contains the full analytical report, findings, hypothesis evaluation, and busine
 
 
 
-<!-- Start of picture text -->
-Funding Range vs Startup Status<br>(n=62, post-deduplication)<br>Mmm Active<br>Closed<br>‘5 10- p = 0.0001<br>100i 1 i fail4 fail1 315fai<br>Failure Rate by Industry<br>(n=62, post-deduplication)<br>Healthtect H 75% (n=4<br>Edtech + H 60% (n=5)<br>Mobility + | 50 n=2)<br>Logistics + | 50% in=a)<br>MlMmm 250%30-49%(directional, caution)<br>Excluded (n=1)<br>0 20 40 60 80 100 120<br>Dataset AUMEE, Babe Pdrat ndustry rates at /e pattern:<br><!-- End of picture text -->
+## Key Visualizations
 
+### 1. Funding Range vs Startup Status
 
+This visualization compares startup outcomes across different funding ranges and directly supports the project's primary hypothesis.
 
-<!-- Start of picture text -->
-Failure Rate by Funding Stage<br>(n=62, post-deduplication)<br>a100 - (n=9)<br>(n=8)<br>80<br>amd failure drops<br>& 60 from 87.5% + 30%<br>40 -<br>(n=10)<br>_ a<br><!-- End of picture text -->
+![Funding Range vs Startup Status](visuals/chart3_funding_vs_status.png)
 
+---
+
+### 2. Failure Rate by Industry
+
+Failure rates vary considerably across industries, highlighting that sector characteristics also influence startup outcomes.
+
+![Failure Rate by Industry](visuals/chart2_failure_rate_industry.png)
+
+---
+
+### 3. Funding Stage vs Failure Rate
+
+The analysis shows that failure rates decline substantially after startups progress beyond the early funding stages, with Series B representing an important survival milestone.
+
+![Failure Rate by Funding Stage](visuals/chart8_failure_by_stage.png)
