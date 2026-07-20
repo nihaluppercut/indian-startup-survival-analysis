@@ -1,0 +1,67 @@
+startup,year founded,industry,funding (range),funding stage,status (active/closes),unicorn(1(yes)/0(no),outcome category,survival years
+blusmart,2019,mobility,very high,series b,closed,0,failed,6
+astra,2023,spacetech,high,seed,closed,0,failed,2
+beepkart,2020,e-commerce,medium,series a,closed,0,failed,5
+bharatagri,2017,agritech,medium,series a,closed,0,failed,8
+builder.ai,2012,SaaS,very high,series c+,closed,0,failed,13
+dunzo,2015,logistics,very high,series c+,closed,0,failed,10
+the good glamm group,2015,e-commerce,very high,series c+,closed,0,failed,10
+leap,2020,edtech,low,series a,closed,0,failed,5
+log9,2015,cleantech,high,series b,closed,0,failed,10
+codeparrot,2022,SaaS,very low,seed,closed,0,failed,3
+niro,2021,fintech,medium,series a,closed,0,failed,4
+plusgold,2022,fintech,low,seed,closed,0,failed,3
+zoplar,2022,healthtech,low,series a,closed,0,failed,3
+otipy,2020,e-commerce,high,series b,closed,0,failed,5
+genewiz,2023,healthtech,low,series c+,closed,0,failed,2
+kenko health,2019,healthtech,medium,series a,closed,0,failed,5
+bluelearn,2020,edtech,low,seed,closed,0,failed,4
+koinex,2017,fintech,low,seed,closed,0,failed,2
+muvin,2018,fintech,low,seed,closed,0,failed,6
+staqu,2015,SaaS,low,seed,closed,0,failed,10
+doodhwala,2015,agritech,medium,series a,closed,0,failed,4
+fi0mena,2015,fintech,low,seed,closed,0,failed,2
+turant delivery,2015,logistics,very low,seed,closed,0,failed,2
+lido learning,2019,edtech,medium,series c+,closed,0,failed,3
+Groww,2016,fintech,very high,series c+,active,1,surviving ,9
+CRED,2018,fintech,very high,series c+,active,1,surviving ,7
+CoinSwitch,2017,fintech,high,series c+,active,1,surviving ,8
+Ninjacart,2015,agritech,high,series c+,active,0,surviving ,10
+Infra.Market,2016,e-commerce,very high,series c+,active,1,surviving ,9
+OfBusiness,2015,e-commerce,very high,series c+,active,1,surviving ,10
+Zetwerk,2018,e-commerce,very high,series c+,active,1,surviving ,7
+Darwinbox,2015,SaaS,high,series c+,active,1,surviving ,10
+Unacademy,2015,edtech,very high,series c+,active,1,surviving ,10
+Physics Wallah,2020,edtech,high,series b,active,1,surviving ,5
+Curefoods,2020,e-commerce,high,series c+,active,0,surviving ,5
+Open,2017,fintech,high,series c+,active,1,surviving ,8
+FreshToHome,2015,e-commerce,high,series c+,active,0,surviving ,10
+Slice,2016,fintech,high,series b,active,0,surviving ,9
+Jupiter,2019,fintech,high,series c+,active,0,surviving ,6
+Jar,2021,fintech,medium,series b,active,0,surviving ,4
+Fi Money,2019,fintech,medium,series c+,active,0,surviving ,6
+KreditBee,2018,fintech,high,series c+,active,0,surviving ,7
+Apna,2019,SaaS,high,series c+,active,0,surviving ,6
+RocketLane,2020,SaaS,medium,series b,active,0,surviving ,5
+Hasura,2018,SaaS,medium,series c+,active,0,surviving ,7
+Fleetx,2017,SaaS,medium,series c+,active,0,surviving ,8
+Bellatrix Aerospace,2015,spacetech,medium,series a,active,0,surviving ,10
+Agnikul Cosmos,2017,spacetech,medium,series b,active,0,surviving ,8
+Skyroot Aerospace,2018,spacetech,high,series c+,active,0,surviving ,7
+DeHaat,2016,agritech,high,series c+,active,0,surviving ,9
+Fasal,2018,agritech,medium,series b,active,0,surviving ,7
+HealthPlix,2016,healthtech,medium,series c+,active,0,surviving ,9
+Meesho,2015,e-commerce,very high,series c+,active,1,surviving ,10
+Livspace,2015,e-commerce,high,series c+,active,1,surviving ,10
+CoinDCX,2018,fintech,high,series c+,active,1,surviving ,7
+BlackBuck,2015,logistics,high,series c+,active,1,surviving ,10
+Zepto,2021,e-commerce,very high,series c+,active,1,surviving ,4
+CoinSwitch,2017,fintech,very high,series c+,active,1,surviving ,8
+CoinDCX,2018,fintech,very high,series c+,active,1,surviving ,7
+ElasticRun,2016,logistics,high,series c+,active,1,surviving ,9
+DealShare,2018,e-commerce,high,series c+,active,1,surviving ,7
+Livspace,2015,e-commerce,very high,series c+,active,1,surviving ,10
+BlackBuck,2015,logistics,very high,series c+,active,1,surviving ,10
+Ola Electric,2017,mobility,very high,series c+,active,1,surviving ,8
+GlobalBees,2021,e-commerce,high,series c+,active,1,surviving ,4
+Mensa Brands,2021,e-commerce,high,series b,active,1,surviving ,4
